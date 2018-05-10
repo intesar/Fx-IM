@@ -40,9 +40,4 @@ jobs:
     tags:
       - V1
     regions: FxLabs/US_WEST_1
-    issueTracker: FxLabs/IT-Test
-  - name: SANDBOX
-    environment: Dev
-    tags:
-      - SANDBOX
-    regions: FxLabs/US_WEST_1
+    issueTracker: FxLabs/Fx-IM
